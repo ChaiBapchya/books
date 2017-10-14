@@ -13,8 +13,6 @@ your past need not be prologue to your future.
 when you help others, they often help you.
 no tabulation of dollars and cents can account for immutable fact - business is a human enterprise, driven and determined by people.
 
-schmoozers,brown-nosers,smarmy sycophants
-
 reaching out to people as way of living life
 
 relationship-driven career
@@ -36,4 +34,9 @@ world has changed
 relationships aren;t finite like pie,that can only be cut into so many pieces. take one n u r left with less of it
 its like muscles - more u work on them stronger they become.
 
+
+
+Vocab
+schmoozers,brown-nosers,smarmy sycophants
+rolodex = rolling + index + desk = sum of individual's accumulated business contacts
 
