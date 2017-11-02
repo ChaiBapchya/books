@@ -12,3 +12,6 @@
 6. how to stop worrying and start living dale carnegie
 7. how to win friends and influence people
 8. The Power of Your Subconscious Mind Paperback – Dr. Joseph murphy
+
+Technical
+1. Gentle Introduction to Apache Spark
