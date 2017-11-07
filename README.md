@@ -13,5 +13,8 @@
 7. how to win friends and influence people
 8. The Power of Your Subconscious Mind Paperback – Dr. Joseph murphy
 
+Historical
+1. Inglorious Empire by Shashi Tharoor
+
 Technical
 1. Gentle Introduction to Apache Spark
