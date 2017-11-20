@@ -16,6 +16,7 @@
 10. Option B - Sheryl Sandberg
 11. Emotional Agility - Susan David
 12. Chasing the Scream - Johann Hari
+13. What i know for sure - oprah winfrey
 
 Historical
 1. Inglorious Empire by Shashi Tharoor
