@@ -18,9 +18,11 @@
 12. Chasing the Scream - Johann Hari
 13. What i know for sure - oprah winfrey
 14. Deep Work - Cal Newport
-Historical
+15. The Small Big - small changes that spark big influence
+
+### Historical
 1. Inglorious Empire by Shashi Tharoor
 
-Technical
+### Technical
 1. Gentle Introduction to Apache Spark
 2. Grokking Deep Learning - Andrew Trask
