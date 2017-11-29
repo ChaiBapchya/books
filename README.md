@@ -26,3 +26,6 @@
 ### Technical
 1. Gentle Introduction to Apache Spark
 2. Grokking Deep Learning - Andrew Trask
+
+### Finance
+1. How buffet does it?
