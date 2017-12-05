@@ -7,7 +7,7 @@
 1. Beyond Freedom and Dignity by B.F. Skinner
 2. How to talk to anyone (92 lil tricks for big success in relationships) Leil Lowndes
 3. Zero To One by Peter Thiel
-4. Developing Analytic Talent: Becoming a Data Scientist / Edition 1 by Vincent Granville
+4. 
 5. "Quiet: The Power of Introverts in a World That Can’t Stop Talking" by Susan Cain. 
 6. how to stop worrying and start living dale carnegie
 7. how to win friends and influence people
@@ -32,10 +32,13 @@
 ### Technical
 1. Gentle Introduction to Apache Spark
 2. Grokking Deep Learning - Andrew Trask
+3. Developing Analytic Talent: Becoming a Data Scientist / Edition 1 by Vincent Granville
+4. 
 
 ### Finance
 1. How buffet does it?
 2. Evicted: Poverty and Profit in the American City, by Matthew Desmond
+3. Barter to Bitcoin - Ravin aarya
 
 ### Fiction
 1. John Green’s new novel, Turtles All the Way Down,
@@ -47,3 +50,8 @@
 ### AutoBio
 1. Believe Me: A Memoir of Love, Death, and Jazz Chickens, by Eddie Izzard
 2. 
+
+### Motivational / Self-Help
+1. Thinking fast and slow by Daniel Kahneman
+2. 7 ahbits of highly influential people
+3. 
