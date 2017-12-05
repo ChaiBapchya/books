@@ -23,6 +23,11 @@
 
 ### Historical
 1. Inglorious Empire by Shashi Tharoor
+2. Black Flags: The Rise of ISIS by Joby Warric
+3. Gideon's Spies - Gordon Thomas
+4. The Best We Could Do, by Thi Bui. (Vietnam War family)
+5. The Sympathizer, by Viet Thanh Nguyen
+6. Energy and Civilization: A History, by Vaclav Smil
 
 ### Technical
 1. Gentle Introduction to Apache Spark
@@ -30,3 +35,15 @@
 
 ### Finance
 1. How buffet does it?
+2. Evicted: Poverty and Profit in the American City, by Matthew Desmond
+
+### Fiction
+1. John Green’s new novel, Turtles All the Way Down,
+
+### Legal
+1. The Color of Law by Richard Rothstein
+2. 
+
+### AutoBio
+1. Believe Me: A Memoir of Love, Death, and Jazz Chickens, by Eddie Izzard
+2. 
