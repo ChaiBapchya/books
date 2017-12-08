@@ -20,6 +20,7 @@
 14. Deep Work - Cal Newport
 15. The Small Big - small changes that spark big influence
 16. Musicophilia - Oliver Sacks
+17. How to lie with statistics?
 
 ### Historical
 1. Inglorious Empire by Shashi Tharoor
