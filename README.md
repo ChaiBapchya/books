@@ -29,7 +29,7 @@
 4. The Best We Could Do, by Thi Bui. (Vietnam War family)
 5. The Sympathizer, by Viet Thanh Nguyen
 6. Energy and Civilization: A History, by Vaclav Smil
-
+7. Study of Civilization - Will and Ariel Durant
 ### Technical
 1. Gentle Introduction to Apache Spark
 2. Grokking Deep Learning - Andrew Trask
