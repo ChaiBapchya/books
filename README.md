@@ -55,4 +55,4 @@
 ### Motivational / Self-Help
 1. Thinking fast and slow by Daniel Kahneman
 2. 7 ahbits of highly influential people
-3. 
+3. Memorization - How to Develop a Brilliant Memory Week by Week
