@@ -56,3 +56,15 @@
 1. Thinking fast and slow by Daniel Kahneman
 2. 7 ahbits of highly influential people
 3. Memorization - How to Develop a Brilliant Memory Week by Week
+
+### Business / Leadership
+1. option b
+2. power of moments
+3. hit refresh satya nadela
+4. barking up wrong tree
+5. the four
+6. reset ellen pao
+7. tehnically wrong
+8. the four tendencies - gretchen rubin
+9. perennial seller - ryan holiday
+10. wierd is a world that's not
