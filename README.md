@@ -40,6 +40,14 @@
 1. How buffet does it?
 2. Evicted: Poverty and Profit in the American City, by Matthew Desmond
 3. Barter to Bitcoin - Ravin aarya
+4. The Coffeehouse Investor: How to Build Wealth, Ignore Wall Street, and Get On with Your Life
+5. YOUR MONEY OR YOUR LIFE: 9 STEPS TO TRANSFORMING YOUR RELATIONSHIP WITH MONEY AND ACHIEVING FINANCIAL INDEPENDENCE: REVISED AND UPDATED FOR THE 21ST CENTURY
+6. THE MILLIONAIRE NEXT DOOR: THE SURPRISING SECRETS OF AMERICA’S WEALTHY
+7. THE ONLY INVESTMENT GUIDE YOU’LL EVER NEED
+8. THE BOGLEHEADS’ GUIDE TO INVESTING
+9. THE INTELLIGENT INVESTOR: THE DEFINITIVE BOOK ON VALUE INVESTING. A BOOK OF PRACTICAL COUNSEL (REVISED EDITION) (COLLINS BUSINESS ESSENTIALS)
+10. THE MILLIONAIRE REAL ESTATE INVESTOR
+11. 4 hour work week
 
 ### Fiction
 1. John Green’s new novel, Turtles All the Way Down,
@@ -52,10 +60,14 @@
 1. Believe Me: A Memoir of Love, Death, and Jazz Chickens, by Eddie Izzard
 2. 
 
+## Bio
+1. Mark Zuckerberg: Ten Lessons In Leadership by Michael Essan
+
 ### Motivational / Self-Help
 1. Thinking fast and slow by Daniel Kahneman
 2. 7 ahbits of highly influential people
 3. Memorization - How to Develop a Brilliant Memory Week by Week
+4. Checklist Manifesto 
 
 ### Business / Leadership
 1. option b
