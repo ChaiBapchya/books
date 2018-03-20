@@ -48,6 +48,8 @@
 9. THE INTELLIGENT INVESTOR: THE DEFINITIVE BOOK ON VALUE INVESTING. A BOOK OF PRACTICAL COUNSEL (REVISED EDITION) (COLLINS BUSINESS ESSENTIALS)
 10. THE MILLIONAIRE REAL ESTATE INVESTOR
 11. 4 hour work week
+12 millionaire fast lane mj demarc
+13 made inamerica sam walton
 
 ### Fiction
 1. John Green’s new novel, Turtles All the Way Down,
@@ -58,7 +60,7 @@
 
 ### AutoBio
 1. Believe Me: A Memoir of Love, Death, and Jazz Chickens, by Eddie Izzard
-2. 
+2. my spiritual journey dalai lama
 
 ## Bio
 1. Mark Zuckerberg: Ten Lessons In Leadership by Michael Essan
@@ -68,7 +70,8 @@
 2. 7 ahbits of highly influential people
 3. Memorization - How to Develop a Brilliant Memory Week by Week
 4. Checklist Manifesto 
-
+5. clear your clutter with feng shui
+paradox of choice 
 ### Business / Leadership
 1. option b
 2. power of moments
@@ -80,3 +83,6 @@
 8. the four tendencies - gretchen rubin
 9. perennial seller - ryan holiday
 10. wierd is a world that's not
+
+## Science
+1. visual intelligence amy eherman
