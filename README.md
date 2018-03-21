@@ -7,7 +7,6 @@
 1. Beyond Freedom and Dignity by B.F. Skinner
 2. How to talk to anyone (92 lil tricks for big success in relationships) Leil Lowndes
 3. Zero To One by Peter Thiel
-4. 
 5. "Quiet: The Power of Introverts in a World That Can’t Stop Talking" by Susan Cain. 
 6. how to stop worrying and start living dale carnegie
 7. how to win friends and influence people
@@ -71,7 +70,9 @@
 3. Memorization - How to Develop a Brilliant Memory Week by Week
 4. Checklist Manifesto 
 5. clear your clutter with feng shui
-paradox of choice 
+1. paradox of choice 
+1. The subtle art of not giving a fuck
+
 ### Business / Leadership
 1. option b
 2. power of moments
