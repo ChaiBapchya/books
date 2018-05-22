@@ -29,6 +29,7 @@
 5. The Sympathizer, by Viet Thanh Nguyen
 6. Energy and Civilization: A History, by Vaclav Smil
 7. Study of Civilization - Will and Ariel Durant
+
 ### Technical
 1. Gentle Introduction to Apache Spark
 2. Grokking Deep Learning - Andrew Trask
@@ -49,6 +50,9 @@
 11. 4 hour work week
 12 millionaire fast lane mj demarc
 13 made inamerica sam walton
+14. More money than god - sebastian mallaby
+the billionaire's apprentice - anita raghavan
+differentiate or die - survival in our era of killer competition
 
 ### Fiction
 1. John Green’s new novel, Turtles All the Way Down,
@@ -63,6 +67,7 @@
 
 ## Bio
 1. Mark Zuckerberg: Ten Lessons In Leadership by Michael Essan
+2. Inside Apple Adam Lashinsky
 
 ### Motivational / Self-Help
 1. Thinking fast and slow by Daniel Kahneman
@@ -84,6 +89,7 @@
 8. the four tendencies - gretchen rubin
 9. perennial seller - ryan holiday
 10. wierd is a world that's not
+11. The psycholigy of selling brian tracy
 
 ## Science
 1. visual intelligence amy eherman
