@@ -20,6 +20,17 @@
 15. The Small Big - small changes that spark big influence
 16. Musicophilia - Oliver Sacks
 17. How to lie with statistics?
+18. magic of thinking big
+19. Paul Graham, How You Know
+20. Seth Godin the dip
+21. Proust and the Squid: The Story and Science of the Reading Brain: - maryanne wolf
+22. The Power of One Percent Better: Small Gains, Maximum Results
+23. This is water by dfw
+24. If by Rudyard kipling
+25. Pale blue dot by Carl sagan
+26. Self reliance by emerson
+27. Existentialism: From Dostoyevsky to Sartre. 
+28. Being and Nothingness by Jean-Paul
 
 ### Historical
 1. Inglorious Empire by Shashi Tharoor
