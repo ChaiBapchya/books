@@ -1,6 +1,7 @@
 # Books
 ## Ongoing
-1. Never Eat Alone
+1. Intelligent investor by benjamin graham
+1. hit refresh - satya
 2. Bursts
 
 ## To do
@@ -102,7 +103,8 @@
 1. ~~Do it today by Keith Ferrazzi~~
 1. Seeking Wisdom by Peter Bevelin
 1. Mark McCormack what they don't teach you at HBS
-1. Dr. Will Miller and Glenn Sparks, in their book Refrigerator Rights: Creat- ing Connections and Restoring Relationships
+1. Dr. Will Miller and Glenn Sparks, in their book Refrigerator Rights: Creating Connections and Restoring Relationships
+1. ~~Never Eat Alone - Keith Ferrazzi~~
 
 ### Business / Leadership
 1. option b
