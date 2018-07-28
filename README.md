@@ -45,7 +45,8 @@
 1. Gentle Introduction to Apache Spark
 2. Grokking Deep Learning - Andrew Trask
 3. Developing Analytic Talent: Becoming a Data Scientist / Edition 1 by Vincent Granville
-4. 
+4. Deep Learning with python francois cholle
+1. Truth machine blockchain future everything
 
 ### Finance
 1. How buffet does it?
@@ -62,8 +63,17 @@
 12 millionaire fast lane mj demarc
 13 made inamerica sam walton
 14. More money than god - sebastian mallaby
-the billionaire's apprentice - anita raghavan
-differentiate or die - survival in our era of killer competition
+15. the billionaire's apprentice - anita raghavan
+16. differentiate or die - survival in our era of killer competition
+17. cashflow quadrant
+1. Snowball by Warren Buffet
+1. Your money or your life - vicky robin
+1. cashing in on american dream - retire at 35 - By Paul Terhorst
+1. millionaire next door - By Thomas J. Stanley and William D. Danko
+1. “The Wealthy Barber” By David Chilton
+1. “The Automatic Millionaire” By David Bach
+1. “The Bogleheads’ Guide to Investing” By Taylor Larimore, Mel Landauer and Michael LeBoeuf
+1. "If You Can: How Millennials Can Get Rich Slowly" By William Bernstein
 
 ### Fiction
 1. John Green’s new novel, Turtles All the Way Down,
@@ -75,6 +85,7 @@ differentiate or die - survival in our era of killer competition
 ### AutoBio
 1. Believe Me: A Memoir of Love, Death, and Jazz Chickens, by Eddie Izzard
 2. my spiritual journey dalai lama
+3. ~~playing it my way - Sachin Tendulkar~~
 
 ## Bio
 1. Mark Zuckerberg: Ten Lessons In Leadership by Michael Essan
@@ -87,7 +98,11 @@ differentiate or die - survival in our era of killer competition
 4. Checklist Manifesto 
 5. clear your clutter with feng shui
 1. paradox of choice 
-1. The subtle art of not giving a fuck
+1. ~~The subtle art of not giving a fuck~~
+1. ~~Do it today by Keith Ferrazzi~~
+1. Seeking Wisdom by Peter Bevelin
+1. Mark McCormack what they don't teach you at HBS
+1. Dr. Will Miller and Glenn Sparks, in their book Refrigerator Rights: Creat- ing Connections and Restoring Relationships
 
 ### Business / Leadership
 1. option b
@@ -101,6 +116,8 @@ differentiate or die - survival in our era of killer competition
 9. perennial seller - ryan holiday
 10. wierd is a world that's not
 11. The psycholigy of selling brian tracy
+12. rich dad poor dad
+13. ~~Eyes wide open - Isaac Lidsky~~
 
 ## Science
 1. visual intelligence amy eherman
