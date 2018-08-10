@@ -124,5 +124,6 @@
 ## Sports
 1. and god created cricket - simon hughes
 2. i dont like cricket i love it - chris gayle
-1. roy going for broke andrew symonds
-iut of my comfort zone corner of a foreign field ramachandra guha
+1. roy going for broke - andrew symonds
+1. Out of my comfort zone - steve waugh
+1. corner of a foreign field - ramachandra guha
