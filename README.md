@@ -83,7 +83,7 @@
 ### AutoBio
 1. Believe Me: A Memoir of Love, Death, and Jazz Chickens, by Eddie Izzard
 2. my spiritual journey dalai lama
-3. ~~playing it my way - Sachin Tendulkar~~
+3. 
 
 ## Bio
 1. Mark Zuckerberg: Ten Lessons In Leadership by Michael Essan
@@ -122,8 +122,19 @@
 1. visual intelligence amy eherman
 
 ## Sports
+1. ~~playing it my way - Sachin Tendulkar~~
 1. and god created cricket - simon hughes
-2. i dont like cricket i love it - chris gayle
+1. i dont like cricket i love it - chris gayle
 1. roy going for broke - andrew symonds
 1. Out of my comfort zone - steve waugh
 1. corner of a foreign field - ramachandra guha
+1. clear blue sky jonny bairstow
+1. beyond a boundary clr james
+1. ab devilliers - autobio
+1. Driven: The Virat Kohli Story by Vijay Lokapally
+1. century is not enough - sourav ganguly
+1. dhoni touch - unraveling enigma
+1. second innings - andrew flintoff
+1. think and win like dhoni 
+1. glenn maxwell lucky break
+1. its not about bike - lance armstrong
