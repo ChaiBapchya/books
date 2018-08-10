@@ -120,3 +120,9 @@
 
 ## Science
 1. visual intelligence amy eherman
+
+## Sports
+1. and god created cricket - simon hughes
+2. i dont like cricket i love it - chris gayle
+1. roy going for broke andrew symonds
+iut of my comfort zone corner of a foreign field ramachandra guha
