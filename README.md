@@ -32,6 +32,9 @@
 26. Self reliance by emerson
 27. Existentialism: From Dostoyevsky to Sartre. 
 28. Being and Nothingness by Jean-Paul
+1. Seeking Wisdom by Peter Bevelin—Discusses the mental models of Charlie Munger and Warren Buffett.
+1. Fooled By Randomness by Nassim Taleb—One of my favorite mental models. Helps with understanding how random events influence outcomes.
+1. Nudge by Richard Thaler and Cass Sunstein—Explains how our decisions are influenced by different factors.
 
 ### Historical
 1. Inglorious Empire by Shashi Tharoor
