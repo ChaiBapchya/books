@@ -1,7 +1,7 @@
 # Books
 ## Ongoing
-1. Intelligent investor by benjamin graham
-1. hit refresh - satya
+1. 
+1. **hit refresh - satya**
 2. Bursts
 
 ## To do
@@ -36,7 +36,10 @@
 1. Fooled By Randomness by Nassim Taleb—One of my favorite mental models. Helps with understanding how random events influence outcomes.
 1. Nudge by Richard Thaler and Cass Sunstein—Explains how our decisions are influenced by different factors.
 
+
+
 ### Historical
+1. **Pablo Escobar - my fath - Juan pablo escobar**
 1. Inglorious Empire by Shashi Tharoor
 2. Black Flags: The Rise of ISIS by Joby Warric
 3. Gideon's Spies - Gordon Thomas
@@ -44,6 +47,7 @@
 5. The Sympathizer, by Viet Thanh Nguyen
 6. Energy and Civilization: A History, by Vaclav Smil
 7. Study of Civilization - Will and Ariel Durant
+8. **Yuval Noah Harari — Sapiens**
 
 ### Technical
 1. Gentle Introduction to Apache Spark
@@ -53,6 +57,7 @@
 1. Truth machine blockchain future everything
 
 ### Finance
+1. *Intelligent investor by benjamin graham*
 1. How buffet does it?
 2. Evicted: Poverty and Profit in the American City, by Matthew Desmond
 3. Barter to Bitcoin - Ravin aarya
@@ -105,6 +110,9 @@
 1. Mark McCormack what they don't teach you at HBS
 1. Dr. Will Miller and Glenn Sparks, in their book Refrigerator Rights: Creating Connections and Restoring Relationships
 1. ~~Never Eat Alone - Keith Ferrazzi~~
+1. The Six thinking hats - Edward Bono
+1. “Getting Things Done: The Art of Stress-Free Productivity”, David Alle
+1. **Originals: How Non-Conformists Move the World: Adam Grant, Sheryl Sandberg**
 
 ### Business / Leadership
 1. option b
@@ -120,12 +128,14 @@
 11. The psycholigy of selling brian tracy
 12. rich dad poor dad
 13. ~~Eyes wide open - Isaac Lidsky~~
+1. ~~MBA To do or not to~~
 
 ## Science
 1. visual intelligence amy eherman
 
 ## Sports
 1. ~~playing it my way - Sachin Tendulkar~~
+1. ~~the test of my life - Yuvraj Singh~~
 1. and god created cricket - simon hughes
 1. i dont like cricket i love it - chris gayle
 1. roy going for broke - andrew symonds
