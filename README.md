@@ -80,6 +80,16 @@
 1. “The Automatic Millionaire” By David Bach
 1. “The Bogleheads’ Guide to Investing” By Taylor Larimore, Mel Landauer and Michael LeBoeuf
 1. "If You Can: How Millennials Can Get Rich Slowly" By William Bernstein
+1. Market Wizards by Jack D. Schwager
+1. Wall Street The Other Las Vegas by Nicolas Darvas
+1. How I made $2,000,000 on the Stock Market by Nicolas Darvas
+1. How to trade in stocks by Jesse Livermore
+1. How to make money in stocks by O'Neil
+1. New Market Wizards - Conversations with America's Top Wizards by Schwager
+1. Come into my trading room by Elder
+1. Trade your way to 
+1. Complete Turtle Trader by Michael W. Covel
+1. Trend Following by Covel
 
 ### Fiction
 1. John Green’s new novel, Turtles All the Way Down,
