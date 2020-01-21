@@ -1,10 +1,12 @@
 # Books
 ## Ongoing
-1. 
-1. **hit refresh - satya**
+1. A Random Walk Down Wall Street by Burton G. Malkiel
+1. China in the 21st century - what everyone needs to know
+
+## Discontinued
 2. Bursts
 
-## To do
+## Miscellaneous
 1. Beyond Freedom and Dignity by B.F. Skinner
 2. How to talk to anyone (92 lil tricks for big success in relationships) Leil Lowndes
 3. Zero To One by Peter Thiel
@@ -13,7 +15,6 @@
 7. how to win friends and influence people
 8. The Power of Your Subconscious Mind Paperback – Dr. Joseph murphy
 9. When Breath Becomes Air - Paul Kalanithi
-10. Option B - Sheryl Sandberg
 11. Emotional Agility - Susan David
 12. Chasing the Scream - Johann Hari
 13. What i know for sure - oprah winfrey
@@ -39,7 +40,7 @@
 
 
 ### Historical
-1. **Pablo Escobar - my fath - Juan pablo escobar**
+1. ~~**Pablo Escobar - my father - Juan pablo escobar**~~
 1. Inglorious Empire by Shashi Tharoor
 2. Black Flags: The Rise of ISIS by Joby Warric
 3. Gideon's Spies - Gordon Thomas
@@ -47,7 +48,7 @@
 5. The Sympathizer, by Viet Thanh Nguyen
 6. Energy and Civilization: A History, by Vaclav Smil
 7. Study of Civilization - Will and Ariel Durant
-8. **Yuval Noah Harari — Sapiens**
+8. ~~**Yuval Noah Harari — Sapiens**~~
 
 ### Technical
 1. Gentle Introduction to Apache Spark
@@ -56,8 +57,14 @@
 4. Deep Learning with python francois cholle
 1. Truth machine blockchain future everything
 
-### Finance
-1. *Intelligent investor by benjamin graham*
+### Finance / Investment / Economics (MONEY $$$)
+1. **Intelligent investor by benjamin graham** [WIP]
+1. ~~**Cashflow quadrant - Robert Kiyosaki**~~
+1. The Richest Man In Babylon by George S. Clason
+1. Your money or your life - vicky robin
+1. The Little Book of Common Sense Investing by Jack Bogle
+1. A Random Walk Down Wall Street by Burton G. Malkiel
+1. 4 hour work week by Tim Ferriss
 1. How buffet does it?
 2. Evicted: Poverty and Profit in the American City, by Matthew Desmond
 3. Barter to Bitcoin - Ravin aarya
@@ -65,15 +72,12 @@
 7. THE ONLY INVESTMENT GUIDE YOU’LL EVER NEED
 9. THE INTELLIGENT INVESTOR: THE DEFINITIVE BOOK ON VALUE INVESTING. A BOOK OF PRACTICAL COUNSEL (REVISED EDITION) (COLLINS BUSINESS ESSENTIALS)
 10. THE MILLIONAIRE REAL ESTATE INVESTOR
-11. 4 hour work week
 12 millionaire fast lane mj demarc
 13 made inamerica sam walton
 14. More money than god - sebastian mallaby
 15. the billionaire's apprentice - anita raghavan
 16. differentiate or die - survival in our era of killer competition
-17. cashflow quadrant
 1. Snowball by Warren Buffet
-1. Your money or your life - vicky robin
 1. cashing in on american dream - retire at 35 - By Paul Terhorst
 1. millionaire next door - By Thomas J. Stanley and William D. Danko
 1. “The Wealthy Barber” By David Chilton
@@ -90,6 +94,8 @@
 1. Trade your way to 
 1. Complete Turtle Trader by Michael W. Covel
 1. Trend Following by Covel
+1. The Simple Path to Wealth by JL Collins
+1. ~~**Fearless Salary Negotiation**~~
 
 ### Fiction
 1. John Green’s new novel, Turtles All the Way Down,
@@ -106,28 +112,29 @@
 ## Bio
 1. Mark Zuckerberg: Ten Lessons In Leadership by Michael Essan
 2. Inside Apple Adam Lashinsky
+1. ~~**Hit refresh - Satya Nadella**~~
 
 ### Motivational / Self-Help
 1. Thinking fast and slow by Daniel Kahneman
-2. 7 ahbits of highly influential people
+2. 7 habits of highly influential people
 3. Memorization - How to Develop a Brilliant Memory Week by Week
-4. Checklist Manifesto 
+4. ~~**Checklist Manifesto by Atul Gawande**~~
 5. clear your clutter with feng shui
+1. ~~**The life changing magic of tidying up - Marie Kondo**~~
 1. paradox of choice 
-1. ~~The subtle art of not giving a fuck~~
-1. ~~Do it today by Keith Ferrazzi~~
+1. ~~**The subtle art of not giving a fuck - Mark Mason**~~
+1. ~~**Do it today - Darius Foroux**~~
 1. Seeking Wisdom by Peter Bevelin
 1. Mark McCormack what they don't teach you at HBS
 1. Dr. Will Miller and Glenn Sparks, in their book Refrigerator Rights: Creating Connections and Restoring Relationships
-1. ~~Never Eat Alone - Keith Ferrazzi~~
+1. ~~**Never Eat Alone - Keith Ferrazzi**~~
 1. The Six thinking hats - Edward Bono
 1. “Getting Things Done: The Art of Stress-Free Productivity”, David Alle
-1. **Originals: How Non-Conformists Move the World: Adam Grant, Sheryl Sandberg**
+1. ~~**Originals: How Non-Conformists Move the World: Adam Grant, Sheryl Sandberg**~~
 
 ### Business / Leadership
-1. option b
+1. Option B - Sheryl Sandberg
 2. power of moments
-3. hit refresh satya nadela
 4. barking up wrong tree
 5. the four
 6. reset ellen pao
@@ -136,16 +143,17 @@
 9. perennial seller - ryan holiday
 10. wierd is a world that's not
 11. The psycholigy of selling brian tracy
-12. rich dad poor dad
-13. ~~Eyes wide open - Isaac Lidsky~~
-1. ~~MBA To do or not to~~
+12. ~~**Rich dad poor dad - Robery Kiyosaki**~~ [need to reread]
+13. ~~**Eyes wide open - Isaac Lidsky**~~
+1. ~~**MBA To do or not to**~~
+1. ~~**The Tipping Point - Malcolm Gladwell**~~
 
 ## Science
 1. visual intelligence amy eherman
 
 ## Sports
-1. ~~playing it my way - Sachin Tendulkar~~
-1. ~~the test of my life - Yuvraj Singh~~
+1. ~~**Playing it my way - Sachin Tendulkar**~~
+1. ~~**The test of my life - Yuvraj Singh**~~
 1. and god created cricket - simon hughes
 1. i dont like cricket i love it - chris gayle
 1. roy going for broke - andrew symonds
@@ -161,3 +169,7 @@
 1. think and win like dhoni 
 1. glenn maxwell lucky break
 1. its not about bike - lance armstrong
+
+## Epics
+1. Mahabharata [WIP]
+2. Ramayana
