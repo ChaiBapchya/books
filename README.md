@@ -1,10 +1,10 @@
 # Books
 ## Ongoing
 1. A Random Walk Down Wall Street by Burton G. Malkiel
-1. China in the 21st century - what everyone needs to know
+1. 5AM Book Club by Robin Sharma
 
 ## Discontinued
-2. Bursts
+1. Bursts
 
 ## Miscellaneous
 1. Beyond Freedom and Dignity by B.F. Skinner
@@ -18,7 +18,6 @@
 11. Emotional Agility - Susan David
 12. Chasing the Scream - Johann Hari
 13. What i know for sure - oprah winfrey
-14. Deep Work - Cal Newport
 15. The Small Big - small changes that spark big influence
 16. Musicophilia - Oliver Sacks
 17. How to lie with statistics?
@@ -36,7 +35,7 @@
 1. Seeking Wisdom by Peter Bevelin—Discusses the mental models of Charlie Munger and Warren Buffett.
 1. Fooled By Randomness by Nassim Taleb—One of my favorite mental models. Helps with understanding how random events influence outcomes.
 1. Nudge by Richard Thaler and Cass Sunstein—Explains how our decisions are influenced by different factors.
-
+1. ~~**China in the 21st century - what everyone needs to know**~~
 
 
 ### Historical
@@ -59,7 +58,8 @@
 
 ### Finance / Investment / Economics (MONEY $$$)
 1. **Intelligent investor by benjamin graham** [WIP]
-1. ~~**Cashflow quadrant - Robert Kiyosaki**~~
+1. ~~**[Cashflow quadrant - Robert Kiyosaki](https://medium.com/read-with-chai/cashflow-quadrant-f1d42a2b462a)**~~
+1. ~~**[Millionaire Success Habits - Dead Graziosi](https://medium.com/read-with-chai/millionaire-success-habits-d1526db31495)**~~
 1. The Richest Man In Babylon by George S. Clason
 1. Your money or your life - vicky robin
 1. The Little Book of Common Sense Investing by Jack Bogle
@@ -95,7 +95,7 @@
 1. Complete Turtle Trader by Michael W. Covel
 1. Trend Following by Covel
 1. The Simple Path to Wealth by JL Collins
-1. ~~**Fearless Salary Negotiation**~~
+1. ~~**[Fearless Salary Negotiation](https://medium.com/read-with-chai/fearless-salary-negotiation-250330afa269)**~~
 
 ### Fiction
 1. John Green’s new novel, Turtles All the Way Down,
@@ -112,7 +112,7 @@
 ## Bio
 1. Mark Zuckerberg: Ten Lessons In Leadership by Michael Essan
 2. Inside Apple Adam Lashinsky
-1. ~~**Hit refresh - Satya Nadella**~~
+1. ~~**[Hit refresh - Satya Nadella](https://medium.com/read-with-chai/hit-refresh-1dc785d1a199)**~~
 
 ### Motivational / Self-Help
 1. Thinking fast and slow by Daniel Kahneman
@@ -120,10 +120,11 @@
 3. Memorization - How to Develop a Brilliant Memory Week by Week
 4. ~~**Checklist Manifesto by Atul Gawande**~~
 5. clear your clutter with feng shui
-1. ~~**The life changing magic of tidying up - Marie Kondo**~~
+1. ~~**[The life changing magic of tidying up - Marie Kondo](https://medium.com/read-with-chai/the-life-changing-magic-of-tidying-up-93822eb7d528)**~~
 1. paradox of choice 
 1. ~~**The subtle art of not giving a fuck - Mark Mason**~~
 1. ~~**Do it today - Darius Foroux**~~
+1. ~~**Deep Work - Cal Newport**~~
 1. Seeking Wisdom by Peter Bevelin
 1. Mark McCormack what they don't teach you at HBS
 1. Dr. Will Miller and Glenn Sparks, in their book Refrigerator Rights: Creating Connections and Restoring Relationships
@@ -146,7 +147,7 @@
 12. ~~**Rich dad poor dad - Robery Kiyosaki**~~ [need to reread]
 13. ~~**Eyes wide open - Isaac Lidsky**~~
 1. ~~**MBA To do or not to**~~
-1. ~~**The Tipping Point - Malcolm Gladwell**~~
+1. ~~**[The Tipping Point - Malcolm Gladwell](https://medium.com/read-with-chai/the-tipping-point-f9f63eda02ef)**~~
 
 ## Science
 1. visual intelligence amy eherman
