@@ -7,12 +7,12 @@
 1. Bursts
 
 ## Miscellaneous
-1. Beyond Freedom and Dignity by B.F. Skinner
+1. The Hard Thing About Hard Things - Book by Ben Horowitz
+2. Beyond Freedom and Dignity by B.F. Skinner
 2. How to talk to anyone (92 lil tricks for big success in relationships) Leil Lowndes
-3. Zero To One by Peter Thiel
 5. "Quiet: The Power of Introverts in a World That Can’t Stop Talking" by Susan Cain. 
 6. how to stop worrying and start living dale carnegie
-7. how to win friends and influence people
+7. how to win friends and influence people dale carnegie
 8. The Power of Your Subconscious Mind Paperback – Dr. Joseph murphy
 9. When Breath Becomes Air - Paul Kalanithi
 11. Emotional Agility - Susan David
@@ -132,10 +132,13 @@
 1. The Six thinking hats - Edward Bono
 1. “Getting Things Done: The Art of Stress-Free Productivity”, David Alle
 1. ~~**Originals: How Non-Conformists Move the World: Adam Grant, Sheryl Sandberg**~~
+1. Outliers
+1. 21 lessons for the 21st century by yuval noah harari
 
 ### Business / Leadership
 1. Option B - Sheryl Sandberg
 2. power of moments
+3. Zero To One by Peter Thiel
 4. barking up wrong tree
 5. the four
 6. reset ellen pao
