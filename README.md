@@ -1,7 +1,7 @@
 # Books
 ## Ongoing
 1. A Random Walk Down Wall Street by Burton G. Malkiel
-1. 5AM Book Club by Robin Sharma
+3. Zero To One by Peter Thiel
 
 ## Discontinued
 1. Bursts
@@ -114,7 +114,8 @@
 2. Inside Apple Adam Lashinsky
 1. ~~**[Hit refresh - Satya Nadella](https://medium.com/read-with-chai/hit-refresh-1dc785d1a199)**~~
 
-### Motivational / Self-Help
+### Motivational / Self-Help / Productivity
+1. ~~**[5AM Book Club by Robin Sharma](https://medium.com/read-with-chai/5am-club-b107f0f800e3)**~~
 1. Thinking fast and slow by Daniel Kahneman
 2. 7 habits of highly influential people
 3. Memorization - How to Develop a Brilliant Memory Week by Week
@@ -138,7 +139,6 @@
 ### Business / Leadership
 1. Option B - Sheryl Sandberg
 2. power of moments
-3. Zero To One by Peter Thiel
 4. barking up wrong tree
 5. the four
 6. reset ellen pao
