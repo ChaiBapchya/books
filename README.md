@@ -1,6 +1,6 @@
 # Books
 
-This list is a Work in Progress. It has been maintained by Chaitanya Bapat based on recommendations from real-life people, articles, mailing lists, among other things.  Originally, this repo was conceptualized as a Git-based summarization for books. However, realizing that it quickly blows up out of proportion, this remains a list of completed, ongoing and upcoming books on his radar. Moreover, the summaries of the books have been transferred over to a Medium publication by the name [Read with Chai](https://medium.com/read-with-chai).
+This list is a Work in Progress. It has been maintained by Chaitanya Bapat based on recommendations from real-life people, articles, mailing lists, among other things.  Originally, this repo was conceptualized as a Git-based summarization for books. However, realizing that it quickly blows up out of proportion, this remains a list of completed, ongoing and upcoming books on his radar. Moreover, the summaries of the books have been transferred over to a Medium publication by the name **[Read with Chai](https://medium.com/read-with-chai)**.
 
 ## Medium Publication
 ### [Read with Chai](https://medium.com/read-with-chai)
