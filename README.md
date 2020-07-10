@@ -22,6 +22,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. Bursts
 
 ## Miscellaneous
+1. The Black Swan: The Impact of the Highly Improbable - Nassim Nicholas Taleb
 1. The Hard Thing About Hard Things - Book by Ben Horowitz
 2. Beyond Freedom and Dignity by B.F. Skinner
 2. How to talk to anyone (92 lil tricks for big success in relationships) Leil Lowndes
