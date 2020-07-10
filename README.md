@@ -152,6 +152,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. 21 lessons for the 21st century by yuval noah harari
 
 ### Business / Leadership
+1. Super Pumped: The Battle for Uber - Mike Isaac
 1. Option B - Sheryl Sandberg
 2. power of moments
 4. barking up wrong tree
