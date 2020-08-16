@@ -93,7 +93,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 14. More money than god - sebastian mallaby
 15. the billionaire's apprentice - anita raghavan
 16. differentiate or die - survival in our era of killer competition
-1. Snowball by Warren Buffet
+1. The Snowball: Warren Buffett and the Business of Life - Alice Schroeder
 1. 1000 ways to make 1000$ [Buffet's favorite book]
 1. cashing in on american dream - retire at 35 - By Paul Terhorst
 1. millionaire next door - By Thomas J. Stanley and William D. Danko
