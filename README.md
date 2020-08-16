@@ -165,6 +165,8 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 9. perennial seller - ryan holiday
 10. wierd is a world that's not
 11. The psycholigy of selling brian tracy
+1. Starting a Business All-in-One For Dummies
+1. Million Dollar Consulting: The Professional’s Guide to Growing a Practice
 12. ~~**Rich dad poor dad - Robery Kiyosaki**~~ [need to reread]
 13. ~~**Eyes wide open - Isaac Lidsky**~~
 1. ~~**MBA To do or not to**~~
