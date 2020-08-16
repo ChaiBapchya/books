@@ -94,6 +94,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 15. the billionaire's apprentice - anita raghavan
 16. differentiate or die - survival in our era of killer competition
 1. Snowball by Warren Buffet
+1. 1000 ways to make 1000$ [Buffet's favorite book]
 1. cashing in on american dream - retire at 35 - By Paul Terhorst
 1. millionaire next door - By Thomas J. Stanley and William D. Danko
 1. “The Wealthy Barber” By David Chilton
@@ -153,7 +154,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. 21 lessons for the 21st century by yuval noah harari
 
 ### Business / Leadership
-1. Super Pumped: The Battle for Uber - Mike Isaac
+1. ~~Super Pumped: The Battle for Uber - Mike Isaac~~
 1. Option B - Sheryl Sandberg
 2. power of moments
 4. barking up wrong tree
