@@ -133,7 +133,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 ### Motivational / Self-Help / Productivity
 1. ~~**[5AM Book Club by Robin Sharma](https://medium.com/read-with-chai/5am-club-b107f0f800e3)**~~
 1. Four hour workweek by Tim Ferris
-1. Show your work - Kleon Austin
+1. ~~**[Show your work - Kleon Austin](https://medium.com/read-with-chai/show-your-work-cf35ef02cfda)**~~
 1. Anything you want - Derek Sivers
 1. Thinking fast and slow by Daniel Kahneman
 2. 7 habits of highly influential people
