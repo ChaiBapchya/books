@@ -16,7 +16,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 
 ## Ongoing
 1. A Random Walk Down Wall Street by Burton G. Malkiel
-3. Zero To One by Peter Thiel
+3. 
 
 ## Discontinued
 1. Bursts
@@ -157,6 +157,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 
 ### Business / Leadership
 1. ~~Super Pumped: The Battle for Uber - Mike Isaac~~
+1. ~~**[Zero To One by Peter Thiel](https://medium.com/read-with-chai/zero-to-one-b5d93f399cf8)**~~
 1. Option B - Sheryl Sandberg
 2. power of moments
 4. barking up wrong tree
