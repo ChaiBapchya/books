@@ -80,7 +80,6 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. Your money or your life - vicky robin
 1. The Little Book of Common Sense Investing by Jack Bogle
 1. A Random Walk Down Wall Street by Burton G. Malkiel
-1. 4 hour work week by Tim Ferriss
 1. How buffet does it?
 2. Evicted: Poverty and Profit in the American City, by Matthew Desmond
 3. Barter to Bitcoin - Ravin aarya
