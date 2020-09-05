@@ -131,6 +131,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. ~~**[Hit refresh - Satya Nadella](https://medium.com/read-with-chai/hit-refresh-1dc785d1a199)**~~
 
 ### Motivational / Self-Help / Productivity
+
 1. ~~**[5AM Book Club by Robin Sharma](https://medium.com/read-with-chai/5am-club-b107f0f800e3)**~~
 1. Four hour workweek by Tim Ferris
 1. ~~**[Show your work - Kleon Austin](https://medium.com/read-with-chai/show-your-work-cf35ef02cfda)**~~
@@ -154,6 +155,8 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. ~~**Originals: How Non-Conformists Move the World: Adam Grant, Sheryl Sandberg**~~
 1. Outliers
 1. 21 lessons for the 21st century by yuval noah harari
+1. Influence by Robert Cialdini
+1. “High Output Management” by Andrew Grove
 
 ### Business / Leadership
 1. ~~Super Pumped: The Battle for Uber - Mike Isaac~~
