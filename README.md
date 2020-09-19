@@ -174,7 +174,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. Starting a Business All-in-One For Dummies
 1. Million Dollar Consulting: The Professional’s Guide to Growing a Practice
 12. ~~**Rich dad poor dad - Robery Kiyosaki**~~ [need to reread]
-13. ~~**Eyes wide open - Isaac Lidsky**~~
+13. ~~**[Eyes wide open - Isaac Lidsky](https://medium.com/read-with-chai/gained-vision-by-losing-sight-9eea899bca7b)**~~
 1. ~~**MBA To do or not to**~~
 1. ~~**[The Tipping Point - Malcolm Gladwell](https://medium.com/read-with-chai/the-tipping-point-f9f63eda02ef)**~~
 
