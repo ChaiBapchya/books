@@ -145,7 +145,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. paradox of choice 
 1. ~~**The subtle art of not giving a fuck - Mark Mason**~~
 1. ~~**Do it today - Darius Foroux**~~
-1. ~~**Deep Work - Cal Newport**~~
+1. ~~**[Deep Work - Cal Newport](https://medium.com/read-with-chai/deep-work-58b6faa33961)**~~
 1. Seeking Wisdom by Peter Bevelin
 1. Mark McCormack what they don't teach you at HBS
 1. Dr. Will Miller and Glenn Sparks, in their book Refrigerator Rights: Creating Connections and Restoring Relationships
