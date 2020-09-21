@@ -51,7 +51,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. Seeking Wisdom by Peter Bevelin—Discusses the mental models of Charlie Munger and Warren Buffett.
 1. Fooled By Randomness by Nassim Taleb—One of my favorite mental models. Helps with understanding how random events influence outcomes.
 1. Nudge by Richard Thaler and Cass Sunstein—Explains how our decisions are influenced by different factors.
-1. ~~**China in the 21st century - what everyone needs to know**~~
+1. ~~**[China in the 21st century - what everyone needs to know](https://medium.com/read-with-chai/china-in-the-21st-century-802fadc90e1d)**~~
 
 
 ### Historical
