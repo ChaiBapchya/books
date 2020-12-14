@@ -63,7 +63,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 5. The Sympathizer, by Viet Thanh Nguyen
 6. Energy and Civilization: A History, by Vaclav Smil
 7. Study of Civilization - Will and Ariel Durant
-8. ~~**Yuval Noah Harari — Sapiens**~~
+8. **Yuval Noah Harari — Sapiens**
 
 ### Technical
 1. Gentle Introduction to Apache Spark
@@ -129,6 +129,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. Mark Zuckerberg: Ten Lessons In Leadership by Michael Essan
 2. Inside Apple Adam Lashinsky
 1. ~~**[Hit refresh - Satya Nadella](https://medium.com/read-with-chai/hit-refresh-1dc785d1a199)**~~
+1. Genius: The Life and Science of Richard Feynman
 
 ### Motivational / Self-Help / Productivity
 
@@ -157,6 +158,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 1. 21 lessons for the 21st century by yuval noah harari
 1. Influence by Robert Cialdini
 1. “High Output Management” by Andrew Grove
+1. The Almanack of Naval Ravikant by Eric Jorgensen
 
 ### Business / Leadership
 1. ~~Super Pumped: The Battle for Uber - Mike Isaac~~
@@ -177,6 +179,7 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 13. ~~**[Eyes wide open - Isaac Lidsky](https://medium.com/read-with-chai/gained-vision-by-losing-sight-9eea899bca7b)**~~
 1. ~~**MBA To do or not to**~~
 1. ~~**[The Tipping Point - Malcolm Gladwell](https://medium.com/read-with-chai/the-tipping-point-f9f63eda02ef)**~~
+1. Skin in the Game by Nassim Taleb
 
 ## Science
 1. visual intelligence amy eherman
@@ -203,3 +206,48 @@ Feel free to drop your suggestions via Issues/Pull Requests. Additoinally, if yo
 ## Epics
 1. Mahabharata [WIP]
 2. Ramayana
+3. The Prophet by Kahlil Gibran 
+
+1. The Beginning of Infinity: Explanations That Transform the World by David Deutsch
+1. The Rational Optimist: How Prosperity Evolves by Matt Ridley
+1. Genome: The Autobiography of a Species in 23 Chaptersby Matt Ridley
+1. The Red Queen: Sex and the Evolution of Human Nature by Matt Ridley
+1. The Origins of Virtue: Human Instincts and the Evolution of Cooperationby Matt Ridley
+1. The Evolution of Everything: How New Ideas Emerge by Matt Ridley
+1. The Bed of Procrustes: Philosophical and Practical Aphorisms by Nassim Taleb
+1. The Black Swan: The Impact of the Highly Improbable by Nassim Taleb
+1. Antifragile: Things That Gain from Disorder by Nassim Taleb
+1. Fooled by Randomness: The Hidden Role of Chance in Life and Markets by Nassim Taleb
+1. Six Easy Pieces: Essentials of Physics Explained by Its Most Brilliant Teacher by Richard Feynman
+1. Six Not-So-Easy Pieces: Einstein’s Relativity, Symmetry, and Space by Richard Feynman
+1. Perfectly Reasonable Deviations from the Beaten Track by Feynman
+1. The Thing Explainer: Complicated Stuff in Simple Words by Randall Munroe
+1. Thinking Physics: Understandable Practical Reality by Lewis Carroll Epstein
+1. The Lessons of History by Will & Ariel Durant
+1. The Sovereign Individual: Mastering the Transition to the Information Age by James Dale Davidson and Lord William Rees-Mogg
+1. Poor Charlie’s Almanack: The Wit and Wisdom of Charles T. Munger by Charlie Munger (edited by Peter Kaufman)
+1. Reality Is Not What It Seems: The Journey to Quantum Gravity by Carlo Rovelli
+1. Seven Brief Lessons in Physics by Carlo Rovelli
+1. The Compleat Strategyst: Being a Primer on the Theory of Games of Strategy by J.D. Williams 
+1. The Evolution of Cooperation by Robert Axelrod
+
+Philosophy
+1. Theory of Everything (The Enlightened Perspective) - Dreamstate Trilogy
+1. Jed McKenna’s Notebook
+1. Jed Talks #1 and #2
+1. A Master’s Secret Whispers: For those who abhor noise and seek The Truth about life and living
+1. Direct Truth: Uncompromising, non-prescriptive Truths to the enduring questions of life
+1. Atmamun: The Path to achieving the bliss of the Himalayan Swamis. And the freedom of a living God. 
+1. The Book of Life by Jiddu Krishnamurti
+1. Total Freedom: The Essential Krishnamurti by Jiddu Krishnamurti 
+1. Siddhartha by Herman Hesse
+1. The Book of Secrets: 112 Meditations to Discover the Mystery Within by Osho
+1. The Great Challenge: Exploring the World Within by Osho
+1. The Way to Love: The Last Meditations of Anthony DeMello by Anthony DeMello
+1. The Untethered Soul: The Journey Beyond Yourself by Michael Singer
+1. Meditations by Marcus Aurelius. 
+1. Love Yourself Like Your Life Depends on It by Kamal Ravikant
+1. The Tao of Seneca: Practical Letters from a Stoic Master
+1. How to Change your Mind by Michael Pollan
+1. Striking Thoughts: Bruce Lee’s Wisdom for Daily Living by Bruce Lee
+1. The Tao of Philosophy by Alan Watts
