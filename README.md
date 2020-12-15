@@ -251,3 +251,4 @@ Philosophy
 1. How to Change your Mind by Michael Pollan
 1. Striking Thoughts: Bruce Lee’s Wisdom for Daily Living by Bruce Lee
 1. The Tao of Philosophy by Alan Watts
+1. Man's Search for Meaning by Victor Frankl [reco by Ben, Mailchimp guy]
