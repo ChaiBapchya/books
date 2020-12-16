@@ -252,3 +252,4 @@ Philosophy
 1. Striking Thoughts: Bruce Lee’s Wisdom for Daily Living by Bruce Lee
 1. The Tao of Philosophy by Alan Watts
 1. Man's Search for Meaning by Victor Frankl [reco by Ben, Mailchimp guy]
+1. Lying: Sam Harris [reco by Vinod Khosla]
